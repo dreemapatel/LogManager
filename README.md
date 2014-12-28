@@ -2,7 +2,7 @@ LogManager
 ==========
 The theme is a large-scale statistics gathering and analysis tool in scalable virtualized environments with an emphasis on resource scheduling.
 
-The goal of this project is: 1. Practice with virtualized environment, managing, load balancing and testing VM. 2. Apply open source tools like Logstash or Scribe 3. Understanding the need of gathering and analyze for large data 4. Visualize the collected data using the tools like google charts
+The goal of this project is: 1. Practice with virtualized environment, managing, load balancing and testing VM. 2. Apply open source tools like Logstash or Scribe 3. Understanding the need of gathering and analyze for large data 4. Visualize the collected data using the tools like highcharts
 
 Problem description Develop a simple DRS (Distributed Resource Scheduler) and DPM (Distributed Power Management) function, and large-scale statistics gathering and analysis in scalable virtualized environments. Specific areas of interest include health models for multi-tier applications, VM and host performance, and detection of anomalies.
 
